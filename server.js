@@ -6,7 +6,7 @@ const cors = require('cors');
 
 const configuration = new Configuration({
     organization: "org-j7SGVrKIxMo7ymkkfrBxuEgF",
-    apiKey: "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",
+    apiKey: "<api-key>", // Dont be smart, I have deleted the API key
 });
 const openai = new OpenAIApi(configuration);
 const PORT = 3001;
