@@ -1,1 +1,1 @@
-# dietCalc
+# Diet Calc
